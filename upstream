@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+The main branch of the repository is upstream, from which you can pull from and push to.
